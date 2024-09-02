@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0861-flipping-an-image](https://github.com/Shourya4641/LeetCode/tree/master/0861-flipping-an-image) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/Shourya4641/LeetCode/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2442-number-of-arithmetic-triplets](https://github.com/Shourya4641/LeetCode/tree/master/2442-number-of-arithmetic-triplets) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/Shourya4641/LeetCode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
@@ -23,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Shourya4641/LeetCode/tree/master/0557-reverse-words-in-a-string-iii) |
+| [0861-flipping-an-image](https://github.com/Shourya4641/LeetCode/tree/master/0861-flipping-an-image) |
 | [2128-reverse-prefix-of-word](https://github.com/Shourya4641/LeetCode/tree/master/2128-reverse-prefix-of-word) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/Shourya4641/LeetCode/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2442-number-of-arithmetic-triplets](https://github.com/Shourya4641/LeetCode/tree/master/2442-number-of-arithmetic-triplets) |
@@ -51,4 +53,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2442-number-of-arithmetic-triplets](https://github.com/Shourya4641/LeetCode/tree/master/2442-number-of-arithmetic-triplets) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0861-flipping-an-image](https://github.com/Shourya4641/LeetCode/tree/master/0861-flipping-an-image) |
+## Matrix
+|  |
+| ------- |
+| [0861-flipping-an-image](https://github.com/Shourya4641/LeetCode/tree/master/0861-flipping-an-image) |
+## Simulation
+|  |
+| ------- |
+| [0861-flipping-an-image](https://github.com/Shourya4641/LeetCode/tree/master/0861-flipping-an-image) |
 <!---LeetCode Topics End-->
