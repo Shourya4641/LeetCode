@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Shourya4641/LeetCode/tree/master/0011-container-with-most-water) |
+| [0015-3sum](https://github.com/Shourya4641/LeetCode/tree/master/0015-3sum) |
 | [0283-move-zeroes](https://github.com/Shourya4641/LeetCode/tree/master/0283-move-zeroes) |
 | [0861-flipping-an-image](https://github.com/Shourya4641/LeetCode/tree/master/0861-flipping-an-image) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/Shourya4641/LeetCode/tree/master/2231-find-first-palindromic-string-in-the-array) |
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Shourya4641/LeetCode/tree/master/0011-container-with-most-water) |
+| [0015-3sum](https://github.com/Shourya4641/LeetCode/tree/master/0015-3sum) |
 | [0283-move-zeroes](https://github.com/Shourya4641/LeetCode/tree/master/0283-move-zeroes) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Shourya4641/LeetCode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0861-flipping-an-image](https://github.com/Shourya4641/LeetCode/tree/master/0861-flipping-an-image) |
@@ -41,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/Shourya4641/LeetCode/tree/master/0015-3sum) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/Shourya4641/LeetCode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/Shourya4641/LeetCode/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 ## String
