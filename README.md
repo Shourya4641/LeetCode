@@ -49,12 +49,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Shourya4641/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Shourya4641/LeetCode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [2128-reverse-prefix-of-word](https://github.com/Shourya4641/LeetCode/tree/master/2128-reverse-prefix-of-word) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/Shourya4641/LeetCode/tree/master/2231-find-first-palindromic-string-in-the-array) |
 ## Hash Table
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Shourya4641/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [2442-number-of-arithmetic-triplets](https://github.com/Shourya4641/LeetCode/tree/master/2442-number-of-arithmetic-triplets) |
 ## Enumeration
 |  |
@@ -76,4 +78,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Shourya4641/LeetCode/tree/master/0011-container-with-most-water) |
+## Sliding Window
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Shourya4641/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 <!---LeetCode Topics End-->
