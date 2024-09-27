@@ -9,21 +9,26 @@
  * }
  */
 class Solution {
-    // make a dummy pointer pointing at the starting of the linked list
-    ListNode current;
-
     public boolean isPalindrome(ListNode head) {
+        // create a stack 
+        Stack<Integer> stack = new Stack();
+
+        // create a dummy pointer pointing at the head of the linked list
+        ListNode current = head;
+
+        // push all the elements into the stack
+        while (current != null) {
+            stack.push(current.val);
+            current = current.next;
+        }
+
         current = head;
-        return solve(head);
-    }
 
-    public boolean solve(ListNode head) {
-        if (head == null) return true;
+        // pop all the elements from the stack and traverse the linked list at the same time
+        while ((current != null) && (current.val == stack.pop())) {
+            current = current.next;
+        }
 
-        boolean ans = solve(head.next) && head.val == current.val;
-
-        current = current.next;
-
-        return ans;
+        return current == null;
     }
 }
