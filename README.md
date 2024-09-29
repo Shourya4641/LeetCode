@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Shourya4641/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0141-linked-list-cycle](https://github.com/Shourya4641/LeetCode/tree/master/0141-linked-list-cycle) |
+| [0146-lru-cache](https://github.com/Shourya4641/LeetCode/tree/master/0146-lru-cache) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Shourya4641/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Shourya4641/LeetCode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [2442-number-of-arithmetic-triplets](https://github.com/Shourya4641/LeetCode/tree/master/2442-number-of-arithmetic-triplets) |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Shourya4641/LeetCode/tree/master/0021-merge-two-sorted-lists) |
 | [0141-linked-list-cycle](https://github.com/Shourya4641/LeetCode/tree/master/0141-linked-list-cycle) |
+| [0146-lru-cache](https://github.com/Shourya4641/LeetCode/tree/master/0146-lru-cache) |
 | [0148-sort-list](https://github.com/Shourya4641/LeetCode/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Shourya4641/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0206-reverse-linked-list](https://github.com/Shourya4641/LeetCode/tree/master/0206-reverse-linked-list) |
@@ -121,4 +123,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/Shourya4641/LeetCode/tree/master/0148-sort-list) |
+## Design
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/Shourya4641/LeetCode/tree/master/0146-lru-cache) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/Shourya4641/LeetCode/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
